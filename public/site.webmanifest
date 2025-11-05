@@ -1,0 +1,23 @@
+{
+  "name": "RIMO - Rental Management",
+  "short_name": "RIMO",
+  "description": "Smart Rental Management System for Equipment and Tool Rentals",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/rimo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/rimo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
