@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="public/rimo.png" alt="RIMO Logo" width="96" height="96" />
+</p>
+
 # RIMO - Rental Management System
 
 A modern, full-stack rental management platform built with Next.js 14, MongoDB, and TypeScript. Designed for businesses to manage their rental inventory and customers to easily rent products.
+
+• Live Demo: https://rentrimo.vercel.app/
 
 ## 🌟 Features
 
@@ -40,7 +46,7 @@ A modern, full-stack rental management platform built with Next.js 14, MongoDB, 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/sudhansu-24/rental-management-odoo.git
+git clone https://github.com/sudhansu-24/rimo.git
 cd rimo
 npm install
 ```
@@ -124,6 +130,12 @@ rimo/
 │   └── seed.js           # Database seeding
 └── types/                # TypeScript definitions
 ```
+
+## 🖼️ Screenshots
+
+| Listed Items | Cart Page | Checkout Page |
+| --- | --- | --- |
+| ![Listed Items](public/screenshots/Listed%20Items.png) | ![Cart Page](public/screenshots/Cart%20Page.png) | ![Checkout Page](public/screenshots/Checkout%20Page.png) |
 
 ## 🎨 Design System
 
@@ -276,10 +288,6 @@ npm run type-check   # TypeScript type checking
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🆘 Support
+## Support
 
-For support, email support@rimo.com or create an issue in the repository.
-
----
-
-**Built with ❤️ by the Team-70**
+For support, email ssprusty98@gmail.com or create an issue in the repository.
